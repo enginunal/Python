@@ -1,2 +1,2 @@
 # Python
-Python
+Python sample codes, tutorials, useful links and more...
